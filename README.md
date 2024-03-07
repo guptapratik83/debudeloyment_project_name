@@ -1,3 +1,3 @@
-# debudeloyment_project_name
+# debugdeloyment_project_name
 hi     
 This is simple portfolio project made for practice .
